@@ -13,7 +13,7 @@ for(let i=0;i<arr.length-1; i++){
     }
 }
 sorLog.push([arr.concat(),[-1, -1]])
-return sortlog
+return sortLog
 }
 function showLog(logValues,showElement) {
     let str =''
