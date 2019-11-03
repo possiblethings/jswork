@@ -24,7 +24,7 @@ function monkey(){
 
 
 function  stat(){
-    let str =document.getElementById('str').value
+    let str =document.getElementById('str').value     
     let  obj ={}
     
         
